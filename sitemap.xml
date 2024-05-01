@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://ikui-yang.github.io/cn/life/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://ikui-yang.github.io/cn/resource/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://ikui-yang.github.io/cn/resource/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://ikui-yang.github.io/cn/life/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>http://ikui-yang.github.io/tags/LiveMyLife/</loc>
-    <lastmod>2024-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://ikui-yang.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,17 +87,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://ikui-yang.github.io/tags/LiveMyLife/</loc>
+    <lastmod>2024-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://ikui-yang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://ikui-yang.github.io/categories/%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ikui-yang.github.io/categories/%E8%B5%84%E6%BA%90/</loc>
+    <loc>http://ikui-yang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
