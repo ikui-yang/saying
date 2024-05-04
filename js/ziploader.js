@@ -85,7 +85,7 @@ var MIME_MAP = {
     'js': 'text/javascript',
     'jpg': 'image/jpeg',
     'png': 'image/png',
-		'webp': 'image/webp',
+	'webp': 'image/webp',
 }
 
 // load entry
